@@ -5,8 +5,6 @@
 
 Live visualization of all the pokemon (with option to show gyms and pokestops) in your area. This is a proof of concept that we can load all the pokemon visible nearby given a location. Currently runs on a Flask server displaying Google Maps with markers on it.
 
-![Map](https://camo.githubusercontent.com/61d585e7706d136694f50ed2a092661b203a0a5d/687474703a2f2f70676d2e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f636f7665722e706e67)
-
 ## Features:
 
 * Shows Pokemon, Pokestops, and gyms with a clean GUI.
@@ -19,20 +17,10 @@ Live visualization of all the pokemon (with option to show gyms and pokestops) i
 * DB storage (sqlite or mysql) of all found pokemon
 * Incredibly fast, efficient searching algorithm (compared to everything else available)
 
-## Information
-* [Discord](https://discord.gg/rocketmap) for general support
-* [Documentation](https://rocketmap.readthedocs.io/) for installation and usage docs
-* [vote.devkat.org](http://vote.devkat.org) to request new features
-* [Github Issues](https://github.com/RocketMap/RocketMap/issues) for reporting bugs (not for support!)
-
 ## Installation
+I would not install unless you know what you are doing!
 
-For instructions on how to setup and run the tool, please refer to the project [documentation](https://rocketmap.readthedocs.io).
-
-## Deployment
-
-**Please note, deployments are not supported officially. You are using these deployment links at your own risk.**
-[![Deploy](https://raw.githubusercontent.com/RocketMap/PokemonGo-Map-in-Cloud/master/images/deploy-to-jelastic.png)](https://jelastic.com/install-application/?manifest=https://raw.githubusercontent.com/RocketMap/PokemonGo-Map-in-Cloud/master/manifest.jps) [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/RocketMap/RocketMap#develop)
+For instructions on how to setup and run the original tool, please refer to the project [documentation](https://rocketmap.readthedocs.io).
 
 ## Contributions
 
